@@ -4,7 +4,7 @@
 
 
 Includes features: 
-- Hey (says “Hey!” back)
+- Slash Commands
 
 (WORK IN PROGRESS…)
 
