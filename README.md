@@ -4,7 +4,7 @@
 
 
 Includes features: 
-- Slash Commands
+- Moderation Commands
 - Polls
 - Multiplayer Rock, Paper, Scissors
 
